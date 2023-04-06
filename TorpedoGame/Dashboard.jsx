@@ -4,7 +4,7 @@ function Dashboard() {
     
     return (
       <div>
-        <h3>You have not set any sessions</h3>
+        <h3>You have not set any names</h3>
       </div>
     )
   }
